@@ -1,6 +1,6 @@
 # AutoHint
 
-![AutoHint Logo](logo-placeholder.png)  <!-- Replace with your logo image -->
+![AutoHint Logo](https://gravatar.com/expertquirkye45be41280)  <!-- Replace with your logo image -->
 
 **AutoHint** is an innovative module designed to simplify automation tasks with intelligent hint suggestions. Whether you're coding, developing, or debugging, AutoHint gives you the right suggestions at the right time. The perfect assistant for developers and tech enthusiasts alike!
 

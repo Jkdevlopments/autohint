@@ -39,7 +39,7 @@ To install AutoHint, follow these simple steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Jkdevlopments/AutoHint.git
+    git clone https://github.com/Jkdevlopments/autohint.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -57,8 +57,8 @@ To install AutoHint, follow these simple steps:
 To get started with AutoHint, simply import the module and use the provided functions:
 
 ```python
-from autohint import get_hint
+from autohint import search_bar
 
 # Example usage
-hint = get_hint("Your task or code here")
+hint = search_bar("Your task or code here")
 print(hint)
